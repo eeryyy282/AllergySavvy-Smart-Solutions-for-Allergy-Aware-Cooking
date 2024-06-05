@@ -1,2 +1,2 @@
 # AllergySavvy-Smart-Solutions-for-Allergy-Aware-Cooking
-AllergySavvy: Smart Solutions for Allergy-Aware Cooking, aims to address the global health issue of food allergies by developing a personalized recipe recommendation application.
+# This repository is no longer in use, and the entire project has been moved to the new AllergySavvy organization. You can access it at the following link https://github.com/subtoszvy/szvy-central/blob/main/partners.html
